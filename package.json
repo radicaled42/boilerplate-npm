@@ -1,7 +1,13 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Daniel Bianco",
-  "description": "A project that does something awesome",
+  "description": "This is a test project",
+  "keywords": [
+    "freeCodeCamp",
+    "testProject",
+    "npm",
+    "javascript"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
